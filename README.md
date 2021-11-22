@@ -17,3 +17,16 @@ This repository contains git and github files
 [Google Earth](https://earth.google.com/web/)
 
 ![NTR](https://www.greatandhra.com/newphotos9/ntr_tdp11626482435.jpeg)
+
+* Fruits
+  * Mangoes
+  * Apples
+  * Bananas
+1. Vegetables
+    1. Tomatoes
+    2. Carrots
+    3. Onions
+
+Table 2 | Table 2
+------- | -------
+Name    | Roll No.
