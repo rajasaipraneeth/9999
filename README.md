@@ -15,3 +15,5 @@ This repository contains git and github files
 ***bold and italic type of font style***
 
 [Google Earth](https://earth.google.com/web/)
+
+![NTR](https://www.greatandhra.com/newphotos9/ntr_tdp11626482435.jpeg)
