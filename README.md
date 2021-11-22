@@ -14,4 +14,4 @@ This repository contains git and github files
 
 ***bold and italic type of font style***
 
-[Google](www.google.com)
+[Google](https://earth.google.com/web/)
